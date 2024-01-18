@@ -3,13 +3,13 @@ Mise à jour de l'Algo de hachage
 
 Membres du groupe :
 
-SHABANI BIN SHABANI JEANCY
-KUKUNGAMA KANYENGE NATHAN
-AFIDOU SENKERE JEMIMA
-KABISAYI KATAMBUA FRANKLIN
-NSHOLE MAZANA OBED
-MAKWAYA MAWONDA MAURICETTE
-MALU MWANZA ARIEL
-MUBIALA KIESE SAMUEL
-NGAMBA NKUA-MVIBUDULU
-LUAYI KANGOMBO JONAS
+1.Kukungama Kanyenge Nathan
+2. Malu Mwanza Ariel
+3. Makwaya Mawonda Mauricette
+4. Senkere Afidou Jemima
+5. Luayi Kangombo Jonas
+6. Mubiala Kiesse Samuel
+7. Ngamba Nkua-Mvibudulu Dave
+8. Kabisayi Katambua Franklin
+9. Nshole Mazana Obed
+10. Shabani Bin Shabani Jeancy
