@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 ### SECTION DE CONVERSION EN VALEUR ASCII (SUR 3 CHIFFRES)
 def to_ascii_bin(p):
@@ -112,10 +107,3 @@ taille = int(segment*encode*2) # taille du texte à depasser avant compression e
 p=str(input('Chaine à hasher : '))    # Reception dde la chhaine
 texte = hashage(to_ascii_bin(p))       # compression et traduction
 print('texte hashé =',texte)
-
-
-# In[ ]:
-
-
-
-
